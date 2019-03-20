@@ -1,5 +1,3 @@
-
-|    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
 |124561553065369|deploy_mongo|2019-03-20T12:32:49|fail   |
 |    Test Id    |  Job Name  |   Date And Time   |Result |
@@ -17,3 +15,6 @@
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
 |124561553065424|deploy_mongo|2019-03-20T12:33:44|fail   |
+|    Test Id    |  Job Name  |   Date And Time   |Result |
+|--------------:|------------|-------------------|-------|
+|124561553065429|deploy_mongo|2019-03-20T12:33:49|fail   |
