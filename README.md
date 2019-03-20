@@ -1,12 +1,6 @@
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
-|124561553064839|deploy_mongo|2019-03-20T12:23:59|fail   |
-|124561553064832|deploy_mongo|2019-03-20T12:23:52|fail   |
-|124561553064819|deploy_mongo|2019-03-20T12:23:39|fail   |
-|124561553064732|deploy_mongo|2019-03-20T12:22:12|fail   |
-|124561553064719|deploy_mongo|2019-03-20T12:21:59|fail   |
-Prerequisites
-K8s cluster should be created.
+|124561553064868|deploy_mongo|2019-03-20T12:24:28|fail   |
 OpenEBS should be deployed in K8s cluster.
 Storage pool should be created.
 Procedure
