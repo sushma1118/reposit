@@ -1,5 +1,6 @@
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
+|124561553064423|deploy_mongo|2019-03-20T12:17:03|fail   |
 |124561553064393|deploy_mongo|2019-03-20T12:16:33|fail   |
 This job that will create the storage classes with the properties supported by OpenEBS.
 
