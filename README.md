@@ -1,5 +1,3 @@
-OpenEBS should be deployed in K8s cluster.
-Storage pool should be created.
 
 Procedure
 The job should be capable of creating OpenEBS storage classes.
@@ -13,3 +11,6 @@ Test Result
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
 |124561553065383|deploy_mongo|2019-03-20T12:33:03|fail   |
+|    Test Id    |  Job Name  |   Date And Time   |Result |
+|--------------:|------------|-------------------|-------|
+|124561553065389|deploy_mongo|2019-03-20T12:33:09|fail   |
