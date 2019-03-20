@@ -1,5 +1,6 @@
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
+|124561553064960|deploy_mongo|2019-03-20T12:26:00|fail   |
 |124561553064954|deploy_mongo|2019-03-20T12:25:54|fail   |
 |124561553064868|deploy_mongo|2019-03-20T12:24:28|fail   |
 OpenEBS should be deployed in K8s cluster.
