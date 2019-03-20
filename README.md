@@ -1,5 +1,14 @@
 |    Test Id    |  Job Name  |   Date And Time   |Result |
 |--------------:|------------|-------------------|-------|
-|124561552985326|deploy_mongo|2019-03-19T14:18:46|fail   |
-|124561552985313|deploy_mongo|2019-03-19T14:18:33|fail   |
-|124561552984968|deploy_mongo|2019-03-19T14:12:48|fail   |
+|124561553064393|deploy_mongo|2019-03-20T12:16:33|fail   |
+This job that will create the storage classes with the properties supported by OpenEBS.
+
+Prerequisites
+K8s cluster should be created.
+OpenEBS should be deployed in K8s cluster.
+Storage pool should be created.
+Procedure
+The job should be capable of creating OpenEBS storage classes.
+Check if the OpenEBS storage classes are created using kubectl command kubectl get sc
+Test Result
+
